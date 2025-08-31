@@ -1,7 +1,7 @@
 {
   "name": "sprachen-tandem",
   "version": "1.0.0",
-  "description": "Eine Plattform für Sprachenaustausch",
+  "description": "Eine Plattform für den Austausch von Sprachen",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
