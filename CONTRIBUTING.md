@@ -23,3 +23,6 @@ Vielen Dank für Ihren Beitrag zur Verbesserung unseres Projekts!
 
 ## Kontakt
 Wenn Sie Fragen haben, zögern Sie nicht, uns zu kontaktieren.
+
+## Wichtig
+Stellen Sie sicher, dass Sie vor dem Erstellen eines Pull-Requests die neuesten Änderungen vom Hauptbranch abgerufen haben.
