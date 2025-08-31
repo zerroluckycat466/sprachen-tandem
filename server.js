@@ -14,6 +14,11 @@ app.get('/', (req, res) => {
   res.send('Willkommen bei Sprachen Tandem!');
 });
 
+// Health check route
+app.get('/health', (req, res) => {
+  res.send('Server is healthy');
+});
+
 // Middleware for handling 404 errors
 app.use((req, res, next) => {
   res.status(404).send('404 Not Found');
