@@ -17,3 +17,6 @@ Wir freuen uns über Ihre Beiträge zu diesem Projekt! Hier sind einige Richtlin
 
 ## Verhalten
 Bitte respektieren Sie andere Mitwirkende und deren Vorschläge. Halten Sie sich an die Projektstandards und -richtlinien.
+
+## Danksagung
+Vielen Dank für Ihren Beitrag zur Verbesserung unseres Projekts!
