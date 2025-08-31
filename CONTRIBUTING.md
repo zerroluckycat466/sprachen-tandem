@@ -20,3 +20,6 @@ Bitte respektieren Sie andere Mitwirkende und deren Vorschläge. Halten Sie sich
 
 ## Danksagung
 Vielen Dank für Ihren Beitrag zur Verbesserung unseres Projekts!
+
+## Kontakt
+Wenn Sie Fragen haben, zögern Sie nicht, uns zu kontaktieren.
